@@ -1,0 +1,5 @@
+git checkout main
+git checkout -b feature2
+echo "Hello from feature2" > file.txt
+git add .
+git commit -m "Added message from feature2"
